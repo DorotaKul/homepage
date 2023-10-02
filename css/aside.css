@@ -1,0 +1,26 @@
+.aside {
+    width: 160px;
+    padding-left: 15px;
+    margin: 5px;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px rgb(8, 13, 15);
+    font-style: italic;
+  }
+  
+  .aside__link {
+    color: rgb(134, 128, 128);
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .aside__link:hover {
+    color: rgb(87, 58, 58);
+    border-bottom: 1px solid;
+    outline: none;
+    font-weight: bolder;
+  }
+  
+  .aside__imageLink {
+    color: rgb(196, 169, 155);
+    font-weight: bold;
+  }
