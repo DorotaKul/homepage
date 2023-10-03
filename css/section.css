@@ -1,0 +1,20 @@
+.section__heading {
+  text-align: center;
+  font-size: 35px;
+  background-color: rgb(179, 172, 173);
+  margin: 20px;
+  padding: 10px;
+  border-radius: 25px;
+}
+
+.section__subheading {
+  font-weight: bold;
+  font-style: italic;
+  font-size: larger;
+  border-bottom: 2px solid rgb(83, 81, 81);
+  padding: 5px;
+}
+
+.section__tableContainer {
+  overflow-x: auto;
+}
