@@ -22,9 +22,4 @@ html {
     background: rgb(61, 62, 63);
   }
   
-  .js-button {
-    font-family: "Quicksand", sans-serif;
-    border-radius: 25px;
-    background-color: rgb(179, 172, 173);
-    cursor: pointer;
-  }
+ 
