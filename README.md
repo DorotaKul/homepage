@@ -1,5 +1,5 @@
 # This is my first website
-
+![my first website](https://github.com/DorotaKul/homepage/blob/main/gifs/homepage.gif?raw=true)
 ## Despcription
 This is my first website about developmental psychology. You can change the background color by pressing the button. 
 ## Technologies used:
