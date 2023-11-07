@@ -1,5 +1,5 @@
 # This is my first website
-![my first website] (https://github.com/DorotaKul/homepage/blob/main/images/homepage.gif?raw=true)
+![my first website](https://github.com/DorotaKul/homepage/blob/main/images/homepage.gif?raw=true)
 
 ## Demo
 ![Link to my first website](https://dorotakul.github.io/homepage/)
