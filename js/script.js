@@ -1,13 +1,18 @@
-console.log("Cześć!");
+{
+  const toggleBackground = () => {
+    const bodyElement = document.querySelector(".body");
+    const themeNameElement = document.querySelector(".js-themeName");
 
-const buttonElement = document.querySelector(".js-button");
-const bodyElement = document.querySelector(".body");
-const themeNameElement = document.querySelector(".js-themeName");
+    bodyElement.classList.toggle("dark");
+    themeNameElement.innerText = bodyElement.classList.contains("dark")
+      ? "jasne"
+      : "ciemne";
+  };
 
-buttonElement.addEventListener("click", () => {
-  bodyElement.classList.toggle("dark");
+  const init = () => {
+    const buttonElement = document.querySelector(".js-button");
+    buttonElement.addEventListener("click", toggleBackground);
+  };
 
-  themeNameElement.innerText = bodyElement.classList.contains("dark")
-    ? "jasne"
-    : "ciemne";
-});
+  init();
+}
