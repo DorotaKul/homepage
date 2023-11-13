@@ -8,7 +8,7 @@ This is my first website about developmental psychology. You can change the back
 ## Technologies used:
 1. HTML
 2. CSS
-3. JS
+3. JS ES6 features
 4. BEM convention
 
 
