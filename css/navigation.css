@@ -1,25 +1,24 @@
 .navigation {
-    margin: 20px;
-    text-align: center;
-    box-sizing: content-box;
-    background-color: rgb(241, 239, 238);
-    padding: 10px;
-    border-radius: 25px;
-    list-style: none;
-  }
-  
-  .navigation__list {
-    list-style: none;
-  }
-  
-  .navigation__listItem {
-    display: inline-block;
-    font-weight: bold;
-  }
-  
-  .navigation__link {
-    margin: 20px;
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-  }
-  
+  margin: 20px;
+  text-align: center;
+  box-sizing: content-box;
+  background-color: rgb(241, 239, 238);
+  padding: 10px;
+  border-radius: 25px;
+  list-style: none;
+}
+
+.navigation__list {
+  list-style: none;
+}
+
+.navigation__listItem {
+  display: inline-block;
+  font-weight: bold;
+}
+
+.navigation__link {
+  margin: 20px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
