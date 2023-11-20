@@ -1,6 +1,8 @@
 .footer {
+  color:rgb(0, 0, 0);
   text-align: center;
   margin-top: 100px;
   background-color: rgb(241, 239, 238);
   border-radius: 25px;
 }
+
