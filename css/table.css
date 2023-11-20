@@ -10,10 +10,14 @@
 }
 
 .table__caption {
-  color: rgb(179, 172, 173);
+  color: rgb(134, 129, 130);
   font-size: 23px;
   text-shadow: 1px 2px 2px rgb(105, 51, 51);
   padding: 10px;
+}
+
+.table__caption--dark {
+  color: white;
 }
 
 .table__cell {
